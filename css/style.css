@@ -1,0 +1,33 @@
+*{
+font-family: Arial;
+}
+.wrapper{
+	width: 960px;
+	background: #fff;
+	margin: 0 auto;
+}
+.header{
+	text-align: center;
+}
+img{
+	height: 200px;
+}
+p{
+	font-size: 16px;
+	color: #5c5d5d;
+}
+h1{
+	font-size: 36px;
+}
+li{
+	font-size: 16px;
+	font-weight: bold;
+	color: #3b3b3b;
+}
+a{
+	font-style: italic;
+	color: #0056d3;
+}
+li, a{
+	font-weight: bold;
+}
